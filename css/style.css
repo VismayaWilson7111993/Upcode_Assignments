@@ -1,4 +1,28 @@
-table{
-   
-    border-collapse: collapse;
+html,body{
+    margin:0;
+    width:100vw;
+    height:100vh;
+    border:2px solid black;
+    text-align: center;
+
+}
+.header{
+height:20vh;
+width:100vw;
+background-color: lightpink;
+}
+.nav{
+    height:10vh;
+    width:100vw;
+    color: white;
+    background-color: purple;
+}
+.main{
+    height:50vh;
+    width:100vw;
+}
+.footer{
+    height:20vh;
+    width:100vw;
+    background-color: plum;
 }
